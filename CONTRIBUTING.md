@@ -1,6 +1,6 @@
 ## 如何贡献项目
 
-领取或创建新的 [Issue](https://github.com/lingcoder/OnJava8/issues)，如 [issue 14](https://github.com/lingcoder/OnJava8/issues/14) ，在编辑栏的右侧添加自己为 `Assignee`。
+领取或创建新的 [Issue](https://github.com/lingcoder/OnJava8/issues)，如 [issue 14](https://github.com/gevikhn/OnJava8/issues/14) ，在编辑栏的右侧添加自己为 `Assignee`。
 
 在 [GitHub](https://github.com/lingcoder/OnJava8/fork) 上 `fork` 项目到自己的仓库，你的如 `user_name/OnJava8`，然后 `clone` 到本地，并设置用户信息。
 
@@ -27,7 +27,7 @@ $ git push
 定期使用源项目仓库内容同步更新自己仓库的内容。
 
 ```bash
-$ git remote add upstream https://github.com/lingcoder/OnJava8
+$ git remote add upstream https://github.com/gevikhn/OnJava8
 
 $ git fetch upstream
 
